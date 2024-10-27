@@ -55,6 +55,3 @@ Furthermore, please be aware that the LLM may generate inaccurate or incorrect i
 
 Always consult with qualified professionals for accurate and personalized advice.""") 
 
-# Check if the password is correct.  
-if not check_password():  
-    st.stop()

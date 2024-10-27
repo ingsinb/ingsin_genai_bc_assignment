@@ -1,9 +1,5 @@
 import streamlit as st  
-import random  
 import hmac  
-
-import streamlit as st  
-from helper_functions.utility import check_password  
 
 # """  
 # This file contains the common components used in the Streamlit App.  

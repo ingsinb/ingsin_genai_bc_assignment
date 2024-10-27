@@ -6,7 +6,7 @@ st.subheader("What item do you want to recycle today? :recycle:")
 st.write("Your guide to recycling right.")
 
 form = st.form(key="form")
-user_prompt = form.text_area("Type your item here (e.g. newspaper, drinking straw).")
+user_prompt = form.text_area("Type your item here (e.g. newspaper, drinking straw) to verify if it should be recycled.")
 
 if form.form_submit_button("Submit"):
     st.toast(f"User Input Submitted - {user_prompt}")

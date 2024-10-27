@@ -1,0 +1,161 @@
+material_category,product,can_be_recycled,remarks
+paper,printed paper,yes,make sure it is clean before recycling
+paper,writing paper,yes,make sure it is clean before recycling
+paper,newspaper,yes,make sure it is clean before recycling
+paper,flyer (glossy & non-glossy),yes,make sure it is clean before recycling
+paper,brochure (glossy & non-glossy),yes,make sure it is clean before recycling
+paper,magazine (glossy and non-glossy),yes,make sure it is clean before recycling
+paper,books,yes,donate if it can be reused
+paper,textbooks,yes,donate if it can be reused
+paper,telephone directory,yes,make sure it is clean before recycling
+paper,envelope (with and without plastic window),yes,make sure it is clean before recycling
+paper,red packet,yes,make sure it is clean before recycling
+paper,namecard,yes,make sure it is clean before recycling
+paper,calendar,yes,make sure it is clean before recycling
+paper,greeting card,yes,make sure it is clean before recycling
+paper,gift wrappping paper,yes,make sure it is clean before recycling
+paper,shredded paper,yes,make sure it is clean before recycling
+paper,paper receipt,yes,make sure it is clean before recycling
+paper,carton box and cardboard box,yes,please flatten before recycling
+paper,paper packaging,yes,please flatten before recycling
+paper,printed paper box,yes,please flatten before recycling
+paper,paper box,yes,please flatten before recycling
+paper,egg trays,yes,make sure it is clean before recycling
+paper,"beverage carton (e.g. milk carton, drink packet, juice packet)",yes,"please empty, rinse and flatten before recycling"
+paper,paper towel tube,yes,make sure it is clean before recycling
+paper,toilet roll tube,yes,please flatten before recycling
+paper,tissue box,yes,please flatten before recycling
+paper,paper bag,yes,make sure it is clean before recycling
+paper,"paper disposable (e.g. paper cup, paper plate, glitter paper, crayon drawing)",no,dispose as general waste
+paper,tissue paper,no,dispose as general waste
+paper,paper towel,no,dispose as general waste
+paper,toilet paper,no,dispose as general waste
+paper,disposable wooden chopsticks,no,dispose as general waste
+paper,wooden chopsticks,no,dispose as general waste
+paper,pizza boxes,no,dispose as general waste
+paper,waxx paper,no,dispose as general waste
+paper,paper packaging contaminated with food,no,dispose as general waste
+f&b plastic,"plastic bottle and container (e.g. mineral water bottle, soft drink bottle, carbonated drink bottle, milk bottle, water bottle, medicine bottle",yes,please empty and rinse before recycling
+non-food plastic,shampoo bottle,yes,please empty and rinse before recycling
+non-food plastic,bodywash bottle,yes,please empty and rinse before recycling
+non-food plastic,facial cleanser bottle,yes,please empty and rinse before recycling
+non-food plastic,detergent bottle,yes,please empty and rinse before recycling
+non-food plastic,soap bottle,yes,please empty and rinse before recycling
+plastic,CD/DVD,yes,make sure it is clean before recycling
+plastic,CD/DVD casing,yes,make sure it is clean before recycling
+plastic,plastic bag,yes,make sure it is clean before recycling
+plastic,toilet paper packaging,yes,make sure it is clean before recycling
+plastic,tissue box packaging,yes,make sure it is clean before recycling
+plastic,"plastic film (e.g. magazine wrapper, platic packaging for packet drink)",yes,make sure it is clean before recycling
+plastic,bubble wrap,yes,make sure it is clean before recycling
+plastic,fruit box,yes,make sure it is clean before recycling
+plastic,ziplock bag,yes,make sure it is clean before recycling
+plastic,plastic packaging,yes,please empty contents before recycling
+plastic,bread bag,yes,please empty contents before recycling
+plastic,egg trays,yes,please empty contents before recycling
+plastic,plastic clothes hanger,yes,Make sure it is clean before recycling
+plastic,plastic takeaway,yes,please empty and rinse before recycling
+plastic,food container,yes,please empty and rinse before recycling
+plastic,plastic cups,yes,please empty and rinse before recycling
+plastic,buble tea cups,yes,please empty and rinse before recycling
+plastic,polystyrene foam product,no,dispose as general waste
+plastic,styrofoam,no,dispose as general waste
+plastic,styrofoam cup,no,dispose as general waste
+plastic,styrofoam clamshell,no,dispose as general waste
+plastic,plastic container,no,dispose as general waste
+plastic,plastic disposables,no,dispose as general waste
+plastic,plastic cutlery,no,dispose as general waste
+plastic,plastic crockery,no,dispose as general waste
+plastic,plastic packaging with foil,no,dispose as general waste
+plastic,potato chip bags,no,dispose as general waste
+plastic,empty blister pack,no,dispose as general waste
+plastic,blister pack,no,dispose as general waste
+plastic,expired credit cards,no,dispose as general waste
+plastic,oxo-degradable bag,no,dispose as general waste
+plastic,bio-degradable bag,no,dispose as general waste
+plastic,drinking straw,no,dispose as general waste
+plastic,cassette,no,dispose as general waste
+plastic,video tape,no,dispose as general waste
+plastic,plastic packaging contaminated with food/oil stains,no,dispose as general waste
+plastic,"melamine products (e.g. melamine cups, melamine plates)",no,dispose as general waste
+glass,"beverage glass bottle (e.g. beer bottle, wine bottle, liquor bottle)",yes,please empty and rinse before recycling
+glass,"food glass bottle (sauce bottle, condiment bottle, jam spread bottle, food jars)",yes,please empty and rinse before recycling
+glass,cosmetic glass bottle,yes,please empty and rinse before recycling
+glass,perfume glass bottle,yes,please empty and rinse before recycling
+glass,medicine glass bottle,yes,please empty and rinse before recycling
+glass,supplement glass bottle,yes,please empty and rinse before recycling
+glass,"glassware (e.g. glass cup, glass plate, drinking glass, wine glass)",yes,Make sure it is clean before recycling
+glass,borosilicate glassware,no,dispose as general waste
+glass,pyrex glassware,no,dispose as general waste
+glass,bakeware,no,dispose as general waste
+glass,tempered glass,no,dispose as general waste
+glass,oven-safe food containers,no,dispose as general waste
+glass,crystal glass,no,dispose as general waste
+glass,windows,no,dispose as general waste
+glass,mirrors,no,donate if it can be reused
+glass,glass with metal wires,no,dispose as general waste
+glass,"ceramic product (e.g. ceramic plate, tea pot, porcelain)",no,dispose as general waste
+metal,"beverage metal can (e.g. carbonated drink can, soft drink can, beer can)",yes,please empty and rinse when necessary. rusted metals should be disposed as general waste.
+metal,"food metal can (e.g. biscuit tin, food tin, metal container)",yes,please empty and rinse when necessary. rusted metals should be disposed as general waste.
+metal,medals,yes,make sure it is clean before recycling. rusted metals should be disposed as general waste
+metal,metal bottle cap,yes,make sure it is clean before recycling. rusted metals should be disposed as general waste
+metal,aerosol can,yes,please empty contents before recycling
+metal,clean aluminium tray,yes,please empty and rinse before recycling
+metal,clean aluminium foil,yes,please empty and rinse before recycling
+metal,"non-food metal container (e.g. paint container, paint canss)",yes,please empty contents before recycling. rusted metals should be disposed as general waste
+metal,rusty metal cans,no,dispose as general waste
+metal,dirty aluminium foil,no,dispose as general waste
+metal,dirty aluminium tray,no,dispose as general waste
+metal,metal cutlery,yes,make sure they are completely metal
+metal,steel wool,yes,make sure they are completely metal
+metal,metal accessories,yes,make sure they are completely metal
+others,"ict equipment (e.g. desktop computer, laptop, tablet computer, mobile phone, computer battery, mobile phone battery, printer, modem, router, desktop monitor, docking station, hard disk drive, battery charger, portable charger, power bank, electronic cables, computer mouse, keyboard)",no,Can be recycled at e-waste collection points.
+others,"eletrobic waste (e.g. used mobile phone, tablet, laptop)",no,Can be recycled at e-waste collection points.
+others,rechargeable battery,no,Can be recycled at e-waste collection points.
+others,household or alkaline battery,no,Can be recycled at e-waste collection points.
+others,"electric mobility devices (e.g. personal mobility devices, electric scooter, electric bicycle, power-assisted bicycle, electric mobility scooter)",no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,refrigerator,no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,washing machine,no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,dryer,no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,television,no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,air conditioner,no,These can be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - E-waste collection drive (Quarterly) - Doorstep collection (fees may apply)
+others,rice cooker,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,microwave oven,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,toaster oven,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,electric kettle,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,food processor,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,food blender,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,electric fan,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,standing fan,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,cd/dvd player,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,music player,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,speaker,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,audio sound system,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,radio,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,vacuum cleaner,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,gaming console,no,These e-waste items can be recycled through: - E-waste bins (non-ALBA)* (items must fit the opening of bins) - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents (small items are not applicable) - Cash-for-Trash stations organised by Public Waste Collectors (please contact your PWCs to check that they are able to accept the e-waste) To find out where you can recycle your e-waste
+others,lamp stand,no,"While the lamp bulb can be disposed in the e-waste bin, lamp fixture and stand should be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - Doorstep collection (fees may apply) *Please note that small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products."
+others,lamp fixture,no,"While the lamp bulb can be disposed in the e-waste bin, lamp fixture and stand should be recycled through: - Retailer 1-for-1 Take-back - Bulky item removal service by TCs for HDB residents - Doorstep collection (fees may apply) *Please note that small household appliances will be collected and recycled under recycling programmes organised under the National Voluntary Partnership for the Proper Management of Non-Regulated Used Household Electrical/Electronic Products."
+others,sport shoes,no,Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: - ActiveSG Sport Centres - Decathlon - Selected Public Parks - Selected Recreation Clubs and more!
+others,school shoes,no,Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: - ActiveSG Sport Centres - Decathlon - Selected Public Parks - Selected Recreation Clubs and more!
+others,football shoes (without metal studs),no,Repair or donate your used shoes as far as possible. These are part of the permanent used shoe collection drive: - ActiveSG Sport Centres - Decathlon - Selected Public Parks - Selected Recreation Clubs and more!
+others,clothes,no,Old items should be donated if they are in good condition
+others,other shoes,no,Old items should be donated if they are in good condition
+others,bag,no,Old items should be donated if they are in good condition
+others,toy,no,Old items should be donated if they are in good condition
+others,umbrella,no,Old items should be donated if they are in good condition
+others,spectacles,no,Old items should be donated if they are in good condition
+others,textile,no,Old items should be donated if they are in good condition
+others,curtains,no,Old items should be donated if they are in good condition
+others,bedsheet,no,Old items should be donated if they are in good condition
+others,blanket,no,Old items should be donated if they are in good condition
+others,plant waste,no,Only for landed estates: bag and place outside your unit on collection days
+others,horticultural waste,no,Only for landed estates: bag and place outside your unit on collection days
+others,luggage bag,no,donate if it is in good condition
+others,bulky waste,no,Donate if it is in good condition or contact Town Council to remove from your residential premises
+others,furniture,no,Donate if it is in good condition or contact Town Council to remove from your residential premises
+others,food waste,no,dispose as general waste
+others,leftover medicine,no,dispose as general waste
+others,diaper,no,dispose as general waste
+others,sanitary pag,no,dispose as general waste
+others,stationary pen or pencil,no,donate if it is in good condition

@@ -1,5 +1,10 @@
 import streamlit as st
 from logics.recycle_item_query_handler import process_user_message
+from helper_functions.utility import check_password  
+
+# Check if the password is correct.  
+if not check_password():  
+    st.stop()
 
 
 st.subheader("What item do you want to recycle today? :recycle:")
@@ -13,4 +18,4 @@ if form.form_submit_button("Submit"):
     response = process_user_message(user_prompt)
     st.write(response)
     print(f"User Input is {user_prompt}")
-    
+

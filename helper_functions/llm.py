@@ -1,9 +1,11 @@
 import os
-import sys
 from dotenv import load_dotenv
 from openai import OpenAI
 import tiktoken
 from langchain_text_splitters import RecursiveCharacterTextSplitter
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
@@ -15,8 +17,7 @@ from dotenv import load_dotenv
 from openai import OpenAI
 import tiktoken
 
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 
 
 if load_dotenv('.env'):

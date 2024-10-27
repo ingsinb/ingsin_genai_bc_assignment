@@ -1,4 +1,5 @@
 import os
+import sys
 from dotenv import load_dotenv
 from openai import OpenAI
 import tiktoken
@@ -15,7 +16,6 @@ from openai import OpenAI
 import tiktoken
 
 __import__('pysqlite3')
-import sys
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 
